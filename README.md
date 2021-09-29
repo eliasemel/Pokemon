@@ -1,6 +1,8 @@
 # Pokemon
 
-A project to play around ---> all about pokemons. 
+A project to play around
+
+<img src="http://i.imgur.com/wFJgJO8.png" height="36">
 
 <p float="left">
 <img src="Screenshots/list.png?raw=true " width="400" >
